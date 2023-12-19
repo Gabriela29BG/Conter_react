@@ -1,0 +1,24 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color:white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 25px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #29c7cc;
+}
+
+.button-click {
+  background-color: #44464b;
+}
+
+.button-restart {
+  background-color: rgb(39, 37, 37);
+}
